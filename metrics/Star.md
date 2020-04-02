@@ -34,12 +34,13 @@ Projects on github can be starred by users who want to follow certain projects. 
 </ul>
 This should be repsented with a line graph. With the x-axis being time and the Y-axis being the amount of star during a certain period.
 <ul>
-  <li>Example Graph:</li>
-![alt text](https://github.com/beckert26/wg-evolution/blob/master/metrics/images/graph.png)
+  <li>Example Graph:
+    ![alt text](https://github.com/beckert26/wg-evolution/blob/master/metrics/images/graph.png)</li>
  </ul>
 
 ### Data Collection Strategies
 **Specific description: Github**
+
 Data should be collected from github. A star is defined by a user hitting the star button on a github repository.
 
 **Mandatory parameter:**
