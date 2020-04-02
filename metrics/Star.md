@@ -23,12 +23,12 @@ Projects on github can be starred by users who want to follow certain projects. 
 <li>Star: Project being starred on github.</li>
 </ul>
 
-### Filters (optional)
+### Filters
 <ul>
-<li>By repository. </li>
+<li>By each unique repository. </li>
 </ul>
 
-### Visualizations (optional)
+### Visualizations
 <ul>
 <li>Count per month over time</li>
 </ul>
@@ -40,7 +40,7 @@ This should be repsented with a line graph. With the x-axis being time and the Y
 Metric must be currently deployed/available, in contrast to a tool having the "potential" to provide the metric. Provide direct link to implementation/documentation, if applicable
  </ul>
 
-### Data Collection Strategies (Optional)
+### Data Collection Strategies
 **Specific description: Github**
 Data should be collected from github. A star is defined by a user hitting the star button on a github repository.
 
