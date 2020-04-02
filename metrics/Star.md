@@ -16,6 +16,7 @@ Projects on github can be starred by users who want to follow certain projects. 
 <ul>
 <li>Count. Total number of stars during a period.</li>
 </ul>
+
 **Parameters**
 <ul>
 <li>Period of time: Start and finish date of the period. Default: forever. Period during which changes are considered.</li>
