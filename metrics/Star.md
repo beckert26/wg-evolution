@@ -34,7 +34,7 @@ Projects on github can be starred by users who want to follow certain projects. 
 </ul>
 This should be repsented with a line graph. With the x-axis being time and the Y-axis being the amount of star during a certain period.
 
-Example Graph:
+**Example Graph:**<br>
     ![alt text](https://github.com/beckert26/wg-evolution/blob/master/metrics/images/graph.png)
 
 ### Data Collection Strategies
