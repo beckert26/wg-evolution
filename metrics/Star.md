@@ -33,7 +33,7 @@ Projects on github can be starred by users who want to follow certain projects. 
 This should be repsented with a line graph. With the x-axis being time and the Y-axis being the amount of star during a certain period.
 
 Example Graph:
-![alt text](metrics/images/graph.png)
+![alt text](https://github.com/beckert26/wg-evolution/blob/master/metrics/images/graph.png)
 ### Tools Providing the Metric (optional)
 Metric must be currently deployed/available, in contrast to a tool having the "potential" to provide the metric. Provide direct link to implementation/documentation, if applicable
 
