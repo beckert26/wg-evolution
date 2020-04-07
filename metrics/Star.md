@@ -26,6 +26,7 @@ Projects on github can be starred by users who want to follow certain projects. 
 ### Filters
 <ul>
 <li>By each unique repository. </li>
+    <li>User needs to have a github account for more than a week </li>
 </ul>
 
 ### Visualizations
