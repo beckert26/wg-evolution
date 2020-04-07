@@ -11,7 +11,6 @@ Projects on github can be starred by users who want to follow certain projects. 
 </ul>
 
 ## Implementation
-
 **Aggregators**
 <ul>
 <li>Count. Total number of stars during a period.</li>
