@@ -1,6 +1,6 @@
 # Stars
 
-Question: How many times was a project starred over a specific period of time.
+Question: How many times was a project starred over time.
 
 ## Description
 Projects on github can be starred by users who want to follow certain projects. This metric will describe the amount of time a project was starred over the course of time.
